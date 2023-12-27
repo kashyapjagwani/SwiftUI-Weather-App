@@ -3,11 +3,8 @@
 This SwiftUI-based weather app fetches a list of cities, displaying them in a list view. Once a city is selected, it retrieves the city's individual details and uses its latitude and longitude coordinates to fetch the real-time weather data for that city. The initial list of cities is limited to 25, but users can utilize the search functionality to look for any city globally.
 
 ## Screenshots
-![Simulator Screen Shot - iPhone 14 Pro - 2023-12-26 at 18 08 03](https://github.com/kashyapjagwani/SwiftUI-Weather-App/assets/34401678/6ff1e3c1-f583-4596-b97b-ee63325a4549)
+![WeatherApp Screenshot](https://github.com/kashyapjagwani/SwiftUI-Weather-App/assets/34401678/54c14b66-f3f8-4f32-b2cc-21b55d15511e)
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-12-26 at 18 08 28](https://github.com/kashyapjagwani/SwiftUI-Weather-App/assets/34401678/0982d837-a663-4b27-a598-b3e3f7b83a57)
-
-![Simulator Screen Shot - iPhone 14 Pro - 2023-12-26 at 18 08 50](https://github.com/kashyapjagwani/SwiftUI-Weather-App/assets/34401678/eaacedac-7fb9-4ec5-a7e5-c1b90e206765)
 
 ## Features
 
